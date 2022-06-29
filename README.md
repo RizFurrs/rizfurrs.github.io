@@ -25,6 +25,7 @@ This is the source code for my personal website - a developer and others.
 - 💜 [Flaticon](https://www.flaticon.com/) for icons
 - 💙 [Photoshop](https://www.adobe.com/) for design tools
 
+## Source My favicon.ico/ logo-icon
+> Thanks For @colawolf7 on twitter X3
+
 ## &copy; 2020 [RizFurr](https://github.com/rizfurr/), All rights reserved.
-## Source My favicon.ico 
-> Thanks For @colawolf on twitter X3
