@@ -1,4 +1,4 @@
-# [Mo-banzu.github.io](https://Mo-banzu.github.io) - v1.0
+# [rizfurrs.github.io](https://rizfurr.ml) - v1.0
 
 This is the source code for my personal website - a developer and others.
 
@@ -25,16 +25,6 @@ This is the source code for my personal website - a developer and others.
 - 💜 [Flaticon](https://www.flaticon.com/) for icons
 - 💙 [Photoshop](https://www.adobe.com/) for design tools
 
-### Contact Me
-
-If you have any questions, comments, or concerns, feel free to contact me below.
-
-<p align="left">
-    <a href="https://line.me/ti/p/~mo-banzu">
-        <img alt="Chat me on LINE Messenger" src="https://img.shields.io/badge/LINE-00c300?style=flat&logo=LINE&logoColor=white" />
-    </a>
-</p>
-
----
-
-## &copy; 2020 [Mo-banzu](https://github.com/Mo-banzu/), All rights reserved.
+## &copy; 2020 [RizFurr](https://github.com/rizfurr/), All rights reserved.
+## Source My favicon.ico 
+> Thanks For @colawolf on twitter X3
